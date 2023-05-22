@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    
+}
+body{
+    background-color: rgba(69, 69, 246, 0.776);
+}
+.head{
+    text-align: center;
+ 
+    color: rgb(85, 82, 82);
+}
+.box{
+    text-align: center;
+   
+   background-color: white;
+    padding: 70px;
+    width: 50%;
+    height: 200px;
+    border-radius: 15px;
+    margin: auto;
+    margin-top: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.convert{
+    width: 100%;
+    height: 35%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 20px;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   margin-left: 20px;
+    justify-content: center;
+}
+input{
+    width: 100%;
+    height:40% ;
+    text-align: center;
+    padding: 15px;
+    border-radius: 5px;
+    font-size: large;
+    font-weight: 600;
+    margin-bottom: 12px;
+}
+ select{
+    width: 100%;
+    height:40% ;
+    text-align: center;
+    padding: 15px;
+    border-radius: 5px;
+    font-size: large;
+    font-weight: 600;
+}
+
+
